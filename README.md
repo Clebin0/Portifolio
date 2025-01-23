@@ -22,7 +22,7 @@ script.js        # Arquivo de scripts (JavaScript)
 - Estrutura organizada para facilitar a leitura e manutenção.
 
 ## 🖥️ Prévia do Site
-Você pode acessar o site clicando [aqui](https://github.com/Clebin0).
+Você pode acessar o site clicando [aqui](https://clebin0.github.io/Portifolio/).
 
 ## 🚀 Como Usar
 1. Clone este repositório:
